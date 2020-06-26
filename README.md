@@ -18,6 +18,6 @@ Selected Datasets:
 | SRA615504 | SRS2553350 | drop-seq | Kidney | Mus Musculus | 4853
 | SRA638923 | SRS2797069 | microwell-seq | Kidney | Mus Musculus | 326
 | SRA653146 | SRS2874274 | SMART-seq2 | Kidney | Mus Musculus | 1624
-| --- | --- | --- | --- | --- | --- |
+
 
 
