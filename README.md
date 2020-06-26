@@ -12,7 +12,7 @@ Each .rds file (R format) contain a matrix with genes (rows) and cells (columns)
 Selected Datasets:
 
 |SRA|SRS|Protocol|Tissue|Species| cells  
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | 
 | SRA615504 | SRS2553348 | 10X Chromium | Kidney | Mus Musculus | 3142
 | SRA615504 | SRS2553349 | C1 Fluidigm |Kidney | Mus Musculus | 1462
 | SRA615504 | SRS2553350 | drop-seq | Kidney | Mus Musculus | 4853
